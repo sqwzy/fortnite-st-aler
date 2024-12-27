@@ -1,0 +1,8 @@
+# Builder
+colorama
+customtkinter
+nuitka
+packaging
+pillow
+pycryptodomex
+pyinstaller
